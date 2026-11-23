@@ -32,11 +32,11 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring L
 
 I believe that the best way to understand technology is not just to study how it works, but to experiment, troubleshoot, and challenge myself through practical experiences.
 
-- 🎓 **Education:** [Your University / Programme]
-- 🔐 **Career Goal:** Security Engineer
+- 🎓 **Education:** Universiti Teknologi Malaysia / Computer Science (Network and Security)
+- 🔐 **Career Goal:** Security Engineer/SOC Analyst/Penetration Tester
 - 🌐 **Primary Interest:** Cybersecurity & Computer Networks
 - 🧩 **Currently Exploring:** Beginner CTF challenges
-- 🐧 **Environment:** Ubuntu Linux (Virtual Machine)
+- 🐧 **Environment:** Windows (Main OS), Ubuntu Linux (Virtual Machine)
 - 📚 **Currently Learning:** Programming fundamentals and problem-solving
 
 ---
