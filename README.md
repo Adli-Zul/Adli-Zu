@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Location-Malaysia-7C3AED?style=for-the-badge" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Adli-Zul)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/adlizulfa33)
 
 </div>
