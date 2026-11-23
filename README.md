@@ -2,7 +2,7 @@
 
  <div align="center">
 
-# Hi there, I'm [MUHAMMAD ADLI ZULFA BIN MOHAMMED ZAHID] 👋
+# Hi there, I'm MUHAMMAD ADLI ZULFA BIN MOHAMMED ZAHID 👋
 
 ### Aspiring Cybersecurity Engineer | Computer Science Student
 
