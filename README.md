@@ -1,186 +1,199 @@
-# Adli-Zu
-
  <div align="center">
 
-# Hi there, I'm MUHAMMAD ADLI ZULFA BIN MOHAMMED ZAHID 👋
+# ADLI-ZULFA
 
-### Aspiring Cybersecurity Engineer | Computer Science Student
+### Muhammad Adli Zulfa Bin Mohamad Zahid
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Cybersecurity;Learning+Computer+Networks;Breaking+Things+to+Understand+Them;Building+Skills%2C+One+Challenge+at+a+Time" alt="Typing SVG" />
+**Computer Science Student | Network & Security | Aspiring Security Engineer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UTM;Exploring+Cybersecurity+%26+Networking;Learning+Through+CTF+Challenges;Building+Practical+Technical+Skills" alt="Typing Animation" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0EA5E9?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Student-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Malaysia-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/University-UTM-00529B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Field-Network%20%26%20Security-00BFA6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Malaysia-7C3AED?style=for-the-badge" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/adlizulfa33)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 INTRODUCTION
 
-I'm a first-year student with a growing passion for technology, particularly **Cybersecurity and Computer Networks**.
+Hello! I'm **Muhammad Adli Zulfa Bin Mohamad Zahid**, a first-year Computer Science student at **Universiti Teknologi Malaysia (UTM)**, majoring in Network and Security.
 
-My interest lies in understanding how computer systems work, how networks communicate, and how vulnerabilities can be identified and addressed.
+I enjoy hands-on technical work, solving practical problems, and finding efficient solutions using the tools and resources available to me.
 
-Currently, I'm focused on strengthening my programming fundamentals, exploring Linux environments, and taking my first steps into Capture The Flag (CTF) challenges.
+Currently, I'm exploring the field of cybersecurity through Capture The Flag (CTF) challenges while developing my programming, networking, and technical problem-solving skills.
 
-I believe that the best way to understand technology is not just to study how it works, but to experiment, troubleshoot, and challenge myself through practical experiences.
-
-- 🎓 **Education:** Universiti Teknologi Malaysia / Computer Science (Network and Security)
-- 🔐 **Career Goal:** Security Engineer/SOC Analyst/Penetration Tester
-- 🌐 **Primary Interest:** Cybersecurity & Computer Networks
-- 🧩 **Currently Exploring:** Beginner CTF challenges
-- 🐧 **Environment:** Windows (Main OS), Ubuntu Linux (Virtual Machine)
-- 📚 **Currently Learning:** Programming fundamentals and problem-solving
+I'm particularly interested in understanding how systems work, identifying vulnerabilities, and learning how to secure digital infrastructure.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 ACADEMIC BACKGROUND
 
-*Technologies and tools I'm currently learning or exploring.*
+| Period | Institution | Qualification / Field |
+|:---|:---|:---|
+| **2026 – 2030** | Universiti Teknologi Malaysia (UTM) | Computer Science (Network and Security) |
+| **2025 – 2026** | Universiti Teknologi MARA (UiTM) | Foundation in Science (Life Science) |
+| **2020 – 2025** | MRSM Batu Pahat | Science |
+
+---
+
+## 🎯 CAREER OBJECTIVES
+
+My long-term goal is to pursue a career in cybersecurity, particularly in roles involving the protection, monitoring, and assessment of digital infrastructure.
+
+Areas I'm considering:
+
+- 🔐 **Security Engineer** — Designing, implementing, and maintaining secure systems.
+- 🛡️ **Security Operations Center (SOC) Analyst** — Monitoring security events, investigating threats, and responding to incidents.
+- ⚔️ **Penetration Tester** — Identifying and assessing system vulnerabilities through authorized security testing.
+
+**Long-term ambition:** Contribute to cybersecurity operations and infrastructure protection within major government institutions.
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+*Technologies and tools I'm currently learning and exploring.*
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
 </p>
 
-| Technology | Current Focus |
-|:---|:---|
-| C | Programming fundamentals and problem-solving |
-| JavaScript | Building programming foundations |
-| Python | Exploring scripting and potential automation |
+- C++ 
+- Python
 
-### Tools & Technologies
+### Development & Productivity Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
-| Technology | Application |
+- Git & GitHub
+- Visual Studio Code
+- Obsidian
+
+---
+
+## 🔍 CYBERSECURITY & CTF
+
+I'm currently developing my cybersecurity knowledge through hands-on CTF exercises and online learning platforms.
+
+### Learning Focus
+
+| Category | Learning Objectives |
 |:---|:---|
-| Ubuntu | Linux environment and experimentation |
-| Git & GitHub | Version control and project management |
-| VS Code | Programming and development |
+| OSINT | Gathering and analyzing publicly available information |
+| Reverse Engineering | Understanding program behavior and analyzing binaries |
+| Web Exploitation | Identifying and understanding web application vulnerabilities |
+| Cryptography | Exploring encryption, decryption, and cryptographic weaknesses |
+| Digital Forensics | Investigating digital evidence and analyzing suspicious files |
 
-### Cybersecurity
+### Platforms
 
-- 🔍 Capture The Flag (CTF) — Beginner
-- 🐧 Linux command-line exploration
-- 🔐 Cybersecurity fundamentals — Learning
-- 🌐 Computer networking — Developing foundations
-
----
-
-## 🔬 Research & Technical Interests
-
-I'm particularly interested in understanding the technical foundations behind cybersecurity.
-
-My current areas of interest include:
-
-| Area | Interest |
-|:---|:---|
-| Cybersecurity | System security, vulnerabilities, and defensive techniques |
-| Computer Networks | Network architecture, communication, and protocols |
-| Ethical Hacking | Penetration testing and vulnerability assessment |
-| Linux Systems | Operating systems, command-line tools, and administration |
-| Security Engineering | Designing and maintaining secure systems |
+<p>
+<a href="https://tryhackme.com/p/adlizulfa33">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://www.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+<a href="https://picoctf.org/">
+<img src="https://img.shields.io/badge/picoCTF-0055A4?style=for-the-badge" />
+</a>
+<a href="https://overthewire.org/wargames/">
+<img src="https://img.shields.io/badge/OverTheWire-333333?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 PROJECTS
 
-*A collection of projects, experiments, and technical challenges as I develop my skills.*
+A collection of academic assignments, personal experiments, and practical projects.
 
-> Projects will be added as I complete and publish them.
+### 📚 Formal Academic Projects
 
-### 01. [Project Name]
+*University coursework and collaborative academic projects.*
 
-- **Description:** [Briefly explain what the project does.]
-- **Technologies:** [Languages / Tools]
-- **What I Learned:** [Technical knowledge gained.]
-- **Repository:** [Project URL]
+**[Project Name]**
+- Description: [Brief project overview]
+- Technologies: [Languages / Tools]
+- Repository: [Project URL]
 
-### 02. [Project Name]
+**[Project Name]**
+- Description: [Brief project overview]
+- Technologies: [Languages / Tools]
+- Repository: [Project URL]
 
-- **Description:** [Briefly explain what the project does.]
-- **Technologies:** [Languages / Tools]
-- **What I Learned:** [Technical knowledge gained.]
-- **Repository:** [Project URL]
+### 💻 Personal Side Projects
 
-### 03. [CTF Challenge / Write-up]
-
-- **Description:** [Explain the challenge and its objective.]
-- **Category:** [Cryptography / Forensics / Web Exploitation / etc.]
-- **What I Learned:** [Techniques and concepts explored.]
-- **Write-up:** [Repository URL]
+**Discord Bot**
+- Language: Python
+- Description: [Explain the bot's functionality and intended purpose]
+- Key Features: [List implemented features]
+- Repository: [Project URL]
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 ACHIEVEMENTS & MILESTONES
+
+A growing record of my academic and technical development.
+
+- [Academic achievements]
+- [CTF challenges completed]
+- [Cybersecurity certifications]
+- [Technical competitions and recognitions]
+
+---
+
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
+<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+## 📫 CONTACT INFORMATION
 
-A record of my academic, technical, and personal development.
-
-- 🎓 [Academic achievements and recognitions]
-- 🧩 [CTF competitions or challenges completed]
-- 💻 [Technical projects completed]
-- 📜 [Certifications earned]
-- 🚀 [Other notable milestones]
-
-*This section will grow as I gain more experience and accomplishments.*
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in connecting with fellow students, developers, and cybersecurity enthusiasts.
-
-Whether it's discussing technology, sharing knowledge, or collaborating on projects, feel free to reach out!
+I'm open to connecting with fellow students, developers, and cybersecurity enthusiasts.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:adlizulfa47@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/adlizulfa33">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 </p>
 
 <div align="center">
 
-### "The more I learn, the more I realize how much I don't know."
+### *Learn. Explore. Analyze. Secure.*
 
-*Learning continuously. Building consistently. Securing intelligently.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00D9FF&height=120&section=footer" width="100%" />
 
 </div>
