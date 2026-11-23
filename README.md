@@ -15,7 +15,7 @@
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Adli-Zul)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/adlizulfa33)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/TheBeneathTheStar?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=3a000afd0a35&utm_source=copy&share_date=2026-11-23&sharerId=67aded1dcf144ea97d094386)
 
 </div>
 
