@@ -123,22 +123,12 @@ A collection of academic assignments, personal experiments, and practical projec
 
 *University coursework and collaborative academic projects.*
 
-**[Project Name]**
-- Description: [Brief project overview]
-- Technologies: [Languages / Tools]
-- Repository: [Project URL]
-
-**[Project Name]**
-- Description: [Brief project overview]
-- Technologies: [Languages / Tools]
-- Repository: [Project URL]
-
 ### 💻 Personal Side Projects
 
 **Discord Bot**
 - Language: Python
-- Description: [Explain the bot's functionality and intended purpose]
-- Key Features: [List implemented features]
+- Description: Mainly to understand automation and to grasps how multi-platform connectivity works through API
+- Key Features: Moderation, Music, Database Automation
 - Repository: [Project URL]
 
 ---
@@ -158,17 +148,17 @@ A growing record of my academic and technical development.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adli-Zul&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adli-Zul&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Adli-Zul&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adli-Zul&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -182,7 +172,7 @@ I'm open to connecting with fellow students, developers, and cybersecurity enthu
 <a href="mailto:adlizulfa47@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Adli-Zul">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://tryhackme.com/p/adlizulfa33">
